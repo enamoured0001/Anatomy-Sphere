@@ -11,7 +11,7 @@ const Scene = ({modelFunction}) => {
   return (
     <div >
        
-        <div className='bg-gray-100 h-[85vh] w-[83vw]' >
+        <div className='bg-gray-100 h-[100vh] w-[83vw]' >
        <Canvas>
        
       <pointLight position={[10, 10, 10]} />
