@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Watch } from '../Models/Watch';
-import Scene from '../scene.jsx';
+import Scene from '../Scene.jsx';
 import { Muscular } from '../Models/Muscular';
 import { Circulatory } from '../Models/Circulatory';
 import { Endocrine } from '../Models/Endocrine';
