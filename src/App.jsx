@@ -1,5 +1,5 @@
 import './App.css'
-import Scene from './scene'
+
 import Navbar from './Components/Navbar'
 import Header from './Components/Header'
 
