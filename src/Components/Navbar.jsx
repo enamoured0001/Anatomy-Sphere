@@ -34,7 +34,7 @@ const Navbar = () => {
     <div className='flex'>
 
           
-        <div className='text-white bg-gray-800  opacity-100 w-50 h-fit  flex flex-col'>
+        <div className='text-white bg-gray-800  opacity-100 lg:w-50 w-25 h-fit  flex flex-col'>
         <a onClick={() => handleModelChange(Character)} className='p-5 bold  border-2 border-solid border-neutral-900 '>Human Body</a>
             <a onClick={() => handleModelChange(Circulatory)} className='p-5 border-2 border-solid border-black bold'>Circulatory system</a>
             <a onClick={() => handleModelChange(Skeletal)} className='p-5  border-2 border-solid border-black bold' >Skeletal system</a>
